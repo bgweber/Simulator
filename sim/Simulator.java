@@ -25,7 +25,7 @@ import com.google.api.services.bigquery.model.TableSchema;
 public class Simulator {
 	
 	/** The GCS project name */
-	private static final String PROJECT_ID = "gameanalytics-199018";
+	private static final String PROJECT_ID = "your_project_ID";
 
 	/** The dataset name for the BigQuery output table */
 	private static final String dataset = "tetris";
